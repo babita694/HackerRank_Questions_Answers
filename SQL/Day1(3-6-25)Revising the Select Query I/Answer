@@ -1,6 +1,6 @@
 Answer:
 
-Select *from City where CountryCode ="USA" and  POPULATION >100000;
+select *from City where CountryCode ="USA" and  POPULATION >100000;
 
 Output :
 
