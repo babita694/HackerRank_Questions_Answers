@@ -1,0 +1,7 @@
+Answer:
+
+select * from CITY where ID ="1661";
+
+output :
+
+1661 Sayama JPN Saitama 162472

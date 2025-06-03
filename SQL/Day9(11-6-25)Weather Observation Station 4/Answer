@@ -1,0 +1,11 @@
+Answer:
+
+select count(CITY)- count(Distinct CITY) AS Difference from STATION;
+
+
+COUNT() is an aggregate function that returns the number of rows in a result set.
+
+DISTINCT removes duplicate values and returns only unique entries.
+
+
+Output:13
